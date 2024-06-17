@@ -10,3 +10,4 @@ allanpk716/chinesesubfinder
 onething1/wxedge:3.0.2
 onething1/wxedge
 adguard/adguardhome
+whyour/qinglong
