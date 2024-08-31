@@ -12,3 +12,4 @@ adguard/adguardhome
 whyour/qinglong
 linkease/ddnsto
 homeassistant/home-assistant
+mzzsfy/auto-proxy-pool
