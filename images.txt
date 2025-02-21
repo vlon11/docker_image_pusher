@@ -16,3 +16,4 @@ mzzsfy/auto-proxy-pool
 linzeyi/hivision_idphotos
 imsyy/splayer
 zzzshanghai/doube-itv
+waynezhang2022/doube-itv
