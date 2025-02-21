@@ -15,3 +15,4 @@ homeassistant/home-assistant
 mzzsfy/auto-proxy-pool
 linzeyi/hivision_idphotos
 imsyy/splayer
+zzzshanghai/doube-itv
