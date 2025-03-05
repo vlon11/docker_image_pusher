@@ -14,6 +14,6 @@ linkease/ddnsto
 homeassistant/home-assistant
 mzzsfy/auto-proxy-pool
 linzeyi/hivision_idphotos
-imsyy/splayer
+imsyy/splayer:latest
 zzzshanghai/doube-itv
 waynezhang2022/doube-itv
