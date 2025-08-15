@@ -17,3 +17,4 @@ linzeyi/hivision_idphotos
 imsyy/splayer:latest
 zzzshanghai/doube-itv
 waynezhang2022/doube-itv
+tailscale/tailscale
