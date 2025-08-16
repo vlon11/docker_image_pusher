@@ -19,4 +19,4 @@ zzzshanghai/doube-itv
 waynezhang2022/doube-itv
 tailscale/tailscale
 gdy666/lucky
-whyour/qinglong:2.17.6
+zerotier/zerotier
