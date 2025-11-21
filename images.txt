@@ -20,4 +20,5 @@ waynezhang2022/doube-itv
 tailscale/tailscale
 gdy666/lucky
 zerotier/zerotier
+aexus/solara-music
 1555904/solara-music
