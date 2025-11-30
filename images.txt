@@ -21,3 +21,5 @@ zerotier/zerotier
 aexus/solara-music
 1555904/solara-music
 cloudflare/cloudflared
+advplyr/audiobookshelf
+imaegoo/twikoo
