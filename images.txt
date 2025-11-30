@@ -23,3 +23,4 @@ aexus/solara-music
 cloudflare/cloudflared
 advplyr/audiobookshelf
 imaegoo/twikoo
+lampon/omnibox
