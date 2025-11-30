@@ -14,7 +14,7 @@ linkease/ddnsto
 homeassistant/home-assistant
 mzzsfy/auto-proxy-pool
 linzeyi/hivision_idphotos
-imsyy/splayer:latest
+imsyy/splayer
 tailscale/tailscale
 gdy666/lucky
 zerotier/zerotier
